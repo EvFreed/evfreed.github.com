@@ -1,0 +1,1 @@
+Thanks to verekia whose initializr-bootstrap repository is used by this site
